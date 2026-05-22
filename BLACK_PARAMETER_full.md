@@ -1,6 +1,29 @@
+<style>
+/* Drop cap: enlarge the first letter of each chapter's opening paragraph
+   and let the body text wrap around it. Renders in VS Code preview,
+   pandoc/HTML export, and GitHub Pages. (GitHub's blob view strips CSS.) */
+h1 + p::first-letter {
+  float: left;
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 3.4em;
+  line-height: 0.72;
+  padding: 0.04em 0.10em 0 0;
+  color: #1a1a1a;
+}
+/* The title's subtitle is also an h1 + p, so opt it out of the drop cap. */
+p.subtitle::first-letter {
+  float: none;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: inherit;
+  padding: 0;
+}
+</style>
+
 # BLACK PARAMETER
 
-*A Splinter Cell-style techno-thriller set in the world of frontier AI.*
+<p class="subtitle"><em>A Splinter Cell-style techno-thriller set in the world of frontier AI.</em></p>
 
 ---
 
