@@ -168,6 +168,15 @@ children.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after:
 children.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: 4800 }, children: [new TextRun({ text: "A Novel", size: 24 })] }));
 children.push(new Paragraph({ children: [new PageBreak()] }));
 
+// Dedication page
+const ded = (text, extra = {}) => children.push(new Paragraph({ alignment: AlignmentType.CENTER, spacing: { after: 0, line: 360, ...extra }, children: [new TextRun({ text, italics: true, size: 24, font: BODY_FONT, color: "2A2A2A" })] }));
+ded("For my wife —", { before: 4000, after: 240 });
+ded("who is the warm hands in every cold room,");
+ded("and the best thing that ever happened to a man who plans everything.", { after: 280 });
+ded("You are the reason I take the stairs.");
+ded("All my love, always.");
+children.push(new Paragraph({ children: [new PageBreak()] }));
+
 // Contents
 children.push(new Paragraph({ heading: HeadingLevel.HEADING_1, children: [new TextRun("Contents")] }));
 children.push(new TableOfContents("Contents", { hyperlink: true, headingStyleRange: "1-1" }));

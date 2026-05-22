@@ -19,11 +19,29 @@ p.subtitle::first-letter {
   font-weight: inherit;
   padding: 0;
 }
+/* Dedication page. */
+p.dedication {
+  text-align: center;
+  font-style: italic;
+  line-height: 1.7;
+  margin: 4em auto;
+  max-width: 30em;
+  color: #2a2a2a;
+}
+p.dedication::first-letter { float: none; font-size: inherit; line-height: inherit; font-weight: inherit; padding: 0; }
 </style>
 
 # BLACK PARAMETER
 
 <p class="subtitle"><em>A Splinter Cell-style techno-thriller set in the world of frontier AI.</em></p>
+
+---
+
+<p class="dedication">For my wife —<br>
+who is the warm hands in every cold room,<br>
+and the best thing that ever happened to a man who plans everything.<br><br>
+You are the reason I take the stairs.<br>
+All my love, always.</p>
 
 ---
 
