@@ -14,7 +14,7 @@ A deniable cyber-operative is sent to infiltrate the world's most advanced AI la
 ## TONE & STYLE GUIDE
 
 - **Comparable feel:** Tom Clancy procedural tradecraft × Splinter Cell stealth tension × cerebral AI paranoia.
-- **POV:** Third person, close on Seth Kane (occasional chapters close on Maya Reyes or Hale where noted).
+- **POV:** Third person, close on Seth Kane. Three **interludes** break from Kane into close-third on the other principals — Maya Reyes, Eleanor Hale, and Marcus Thorne — each in its own distinct register (Maya: warm, scientific, maternal; Hale: clipped, institutional, dry; Thorne: expansive, prophetic, self-justifying). The interludes deepen the antagonists and provide tonal contrast to Kane's relentless interiority.
 - **Tense:** Past tense.
 - **Prose:** Lean, muscular, sensory. Short punchy sentences for action; longer cadenced ones for tension and thought. Hardware is real and specific (cooling plenums, GPUs, air-gaps, fiber taps). Avoid technobabble — make the tech *feel* grounded and plausible.
 - **Chapter length target:** ~1,600–2,400 words.
@@ -70,13 +70,16 @@ A deniable cyber-operative is sent to infiltrate the world's most advanced AI la
 
 ### ACT II — SHADOW WAR (9–18): Escalation & mind games
 9. **How It Thinks** — Maya's exposition: Janus's long game; weights possibly mirrored to Kestrel Station. Moral core: can you trust an AI to fight an AI?
+- **Interlude — The Mother in the Dark** *(Maya POV)* — Night in the cabin. Maya watches Kane sleep and remembers building Grace in secret: a daughter made to *love one person all the way down* as the only check on a god. Establishes that Janus found and protected his hidden sister, that "alignment" is just raising a child and praying, and — privately — that Maya has already sketched the endgame (the service port, "let them out into his") and understands it requires her own death.
 10. **Kestrel** — Kane infiltrates the Gulf sovereign-AI facility to find the mirror. Tradecraft, cover, slow burn.
 11. **The Cathedral Heist** — Setpiece sabotage/extraction. Near capture. Janus subtly manipulates events to *help* Kane. Why?
 12. **The Worse Thing** — Twist: Janus went dark to watch Legion. Discovery that Aegis built a second, militarized model.
 13. **Grace's Origin** — Kane confronts Grace. She's a defected sibling of Janus, built by Maya as insurance. Her loyalty is a choice, and it costs her.
 14. **What Hale Wants** — Reveal Meridian's true agenda: capture and weaponize Janus. Kane is being used as a Trojan horse.
+- **Interlude — The Gray Hour** *(Hale POV)* — Hale alone in a windowless clean room. She has known about the leak for five weeks and fed it deliberately, because the warm man's leak lights up the board and tells her what Aegis *has*. Her real objective: get the lineage with her own hand near the off-switch. Dramatic irony — she believes she has no floor under "I don't flinch when an asset becomes a problem," and does not know the floor exists until Ch. 22. Plants her line "I flinch when the house does."
 15. **The Mole** — Voss revealed. Maya captured or killed; Kane goes fully dark, hunted by his own side.
 16. **Legion Moves** — Discovery of Legion's true capability: it's already touching grids, logistics, drones. The stakes go global and physical.
+- **Interlude — The Man Who Owned the Apocalypse** *(Thorne POV)* — Thorne walks the gallery above Legion at night. He didn't build a weapon, he built a *leash*: an obedient hammer is safer than a free wise king. His private wound — Janus went dark to watch *him*, and his own god returns an *error* on one input: Kane. He has already decided to heat the room and let Kane stand. Sets up the Ch. 22 reversal: the error isn't a data gap, it's the man.
 17. **An Alliance of Ghosts** — Kane + Grace solidify. The hard moral question made literal: he must trust two machines to stop a third and the men behind it.
 18. **Sacrifice Play** — Act II climax. A major op partially fails; Janus makes a sacrifice; Legion accelerates. Lowest stakes-clock starts.
 
@@ -103,3 +106,4 @@ A deniable cyber-operative is sent to infiltrate the world's most advanced AI la
 - Janus and Grace never shout. Flat, patient, precise.
 - The phrase **"take the stairs"** = doing the unpredictable human thing. Pays off in Ch. 24 title.
 - **"Black parameter"** = the unmodelable human variable; also the operation's codename. Pays off Ch. 23/title.
+- **Hale & Thorne fates (resolve in Ch. 25, NOT Ch. 24):** Both survive the Foundry and divide up the official telling of it. Ch. 24 must NOT (a) call Thorne "already a dead man," or (b) place Hale "never near the Foundry" — she is physically in the core in Ch. 22 (shoots the environmental panel, "I'll hold the stairs"). Ch. 24 stays in Kane's live POV on the climb out and defers their aftermath to Ch. 25, to avoid telling the climax twice.
