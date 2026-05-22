@@ -92,4 +92,4 @@ The [Story Bible](00_STORY_BIBLE.md) is the source of truth for continuity (name
 
 ## Status
 
-Complete first draft (all 25 chapters). Open polish items: tightening the longer chapters (15, 17, 22, 24) to a more uniform rhythm, and an optional consistency edit pass.
+Complete and polished (all 25 chapters). Done: full copy-edit/proofread pass, name and timeline continuity reconciled (spring → January arc), and a Word build with novel-style drop caps. Optional future work: tightening the longer chapters (15, 17, 22, 24) to a more uniform rhythm.

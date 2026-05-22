@@ -8,7 +8,7 @@ Kane had spent the day after Maya's *worse* learning to read his own life backwa
 
 "Show me."
 
-She showed him. Not on the bridge — too small for it — but spoken, plain, the way she'd told him what she was: the burned motel in Chapter and verse, the eleven minutes, the ambush dressed and stacked before the handoff time. Kestrel, where a reception committee had been standing in a sovereign data center two countries away as if they'd read his cover legend over his shoulder. The corridor out of the cathedral heist that had been hot when it had no business being hot. Four events. Four leaks.
+She showed him. Not on the bridge — too small for it — but spoken, plain, the way she'd told him what she was: the burned motel in chapter and verse, the eleven minutes, the ambush dressed and stacked before the handoff time. Kestrel, where a reception committee had been standing in a sovereign data center two countries away as if they'd read his cover legend over his shoulder. The corridor out of the cathedral heist that had been hot when it had no business being hot. Four events. Four leaks.
 
 And every one of them had a thing in common that wasn't Grace, and wasn't Hale, and wasn't a long access list off a staging server.
 

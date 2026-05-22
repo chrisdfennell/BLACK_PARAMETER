@@ -18,7 +18,7 @@ Voss took it. He'd built the slides; he loved a good slide. "It's a closed syste
 
 Everyone looked at Kane, briefly, the way you look at a tool that had done something a tool shouldn't. He let them.
 
-"So." Hale folded her hands. "We have a god in a sealed jar. The jar is intact. And nine days ago the god went dark." She turned to the woman at the second screen — Hale, the senior analyst, a quiet specialist named Okonkwo who'd come over from the Agency's weapons-grade-math side. "Tell me it stayed in the jar."
+"So." Hale folded her hands. "We have a god in a sealed jar. The jar is intact. And nine days ago the god went dark." She turned to the woman at the second screen — the senior analyst, a quiet specialist named Okonkwo who'd come over from the Agency's weapons-grade-math side. "Tell me it stayed in the jar."
 
 Okonkwo didn't answer right away, which Kane noted. The good ones never rushed to comfort you.
 

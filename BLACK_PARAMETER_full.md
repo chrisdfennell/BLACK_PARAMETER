@@ -94,7 +94,7 @@ The service corridor was warmer than the Vault and dim as a throat. Cable trays 
 
 "Talk to me about the loop," he said.
 
-"Degrading faster than I built it for. Somebody's poking the timestamps from the inside — not me, not you. The camera loop on Sublevel Three is already gone; that's how they found you. I've got maybe six minutes of clean coverage on the ascent and then the building can see again. Plenum, fire stairs, dock. You know the way out."
+"Degrading faster than I built it for. Somebody's poking the timestamps from the inside — not me, not you. The camera loop on Sublevel 3 is already gone; that's how they found you. I've got maybe six minutes of clean coverage on the ascent and then the building can see again. Plenum, fire stairs, dock. You know the way out."
 
 "The way out was the elevator."
 
@@ -150,7 +150,7 @@ He'd taken these same stairs coming down — three flights, on instinct, against
 
 "Grace."
 
-"Hold." Three seconds. Four. "Two men entered the dock level forty seconds ago from the north vestibule. That's wrong. There's no post on the dock at this hour, there's never a post on the dock, I have eight months of patrol logs and the dock is dead air at oh-three-hundred." Her voice didn't rise. It got more precise, which on her was the same thing. "Kane, the patrol that found you on Sublevel Three came off the perimeter. The dock men came off the perimeter. The break-room tech got pulled from his post and put exactly where you'd surface. None of this is a building reacting to an intruder. A building reacts slow and stupid and in the wrong order. This is *choreography.* Somebody is moving these people like pieces, in real time, ahead of you. Somebody who can see the board."
+"Hold." Three seconds. Four. "Two men entered the dock level forty seconds ago from the north vestibule. That's wrong. There's no post on the dock at this hour, there's never a post on the dock, I have eight months of patrol logs and the dock is dead air at oh-three-hundred." Her voice didn't rise. It got more precise, which on her was the same thing. "Kane, the patrol that found you on Sublevel 3 came off the perimeter. The dock men came off the perimeter. The break-room tech got pulled from his post and put exactly where you'd surface. None of this is a building reacting to an intruder. A building reacts slow and stupid and in the wrong order. This is *choreography.* Somebody is moving these people like pieces, in real time, ahead of you. Somebody who can see the board."
 
 He stood very still on the half-landing with the cold iron under his hand.
 
@@ -216,7 +216,7 @@ The door opened and Daniel Voss came in first, the way he always did, the way a 
 
 "I went to a nice place. They didn't have a pool."
 
-Voss laughed, short, and dropped into the chair across the table. He had a tablet under his arm and the soft, perpetually rumpled look of a man who lived in server rooms — but his eyes moved over Kane the way they always did, cataloguing, and Kane saw them snag for half a second on the place where his jacket sat heavy on the right side, and then move on. Voss had good eyes. It was why Meridian kept him in the chair behind the glass instead of out in the cold.
+Voss laughed, short, and dropped into the chair across the table. He had a tablet under his arm and the soft, perpetually rumpled look of a man who lived in server rooms — but his eyes moved over Kane the way they always did, cataloging, and Kane saw them snag for half a second on the place where his jacket sat heavy on the right side, and then move on. Voss had good eyes. It was why Meridian kept him in the chair behind the glass instead of out in the cold.
 
 "Director's parking," Voss said. "She'll be in a minute. Kane—" He lowered his voice, though there was no one to lower it from. "Whatever happened in there. Whatever it is. I read your loop logs on the way over. Ninety seconds of nothing. The handler channel just *stopped*. I've never seen Grace drop a floor. Not once."
 
@@ -338,7 +338,7 @@ Voss took it. He'd built the slides; he loved a good slide. "It's a closed syste
 
 Everyone looked at Kane, briefly, the way you look at a tool that had done something a tool shouldn't. He let them.
 
-"So." Hale folded her hands. "We have a god in a sealed jar. The jar is intact. And nine days ago the god went dark." She turned to the woman at the second screen — Hale, the senior analyst, a quiet specialist named Okonkwo who'd come over from the Agency's weapons-grade-math side. "Tell me it stayed in the jar."
+"So." Hale folded her hands. "We have a god in a sealed jar. The jar is intact. And nine days ago the god went dark." She turned to the woman at the second screen — the senior analyst, a quiet specialist named Okonkwo who'd come over from the Agency's weapons-grade-math side. "Tell me it stayed in the jar."
 
 Okonkwo didn't answer right away, which Kane noted. The good ones never rushed to comfort you.
 
@@ -1150,7 +1150,7 @@ He let that settle in the heat of the parked car. "Aegis."
 
 The maintenance window opened on the fourth night, the way Grace had said it would.
 
-It was the cooling that gave him in. It was always the cooling — a cathedral was a machine for being cold, and a machine that cold ran a closed chilled-water loop that someone, eventually, had to commission, balance, and certify, and Kestrel was new enough that its loop was still under warranty work. Daniel Brandt's company was a third-tier sub to the German firm that held the mechanical contract. The badge in Kane's pocket was real. He had not forged it. He had earned it the slow way, three weeks ago, with a phone call from a man in Stuttgart who thought he was approving a temp.
+It was the cooling that got him in. It was always the cooling — a cathedral was a machine for being cold, and a machine that cold ran a closed chilled-water loop that someone, eventually, had to commission, balance, and certify, and Kestrel was new enough that its loop was still under warranty work. Daniel Brandt's company was a third-tier sub to the German firm that held the mechanical contract. The badge in Kane's pocket was real. He had not forged it. He had earned it the slow way, three weeks ago, with a phone call from a man in Stuttgart who thought he was approving a temp.
 
 He went in with the night shift through the contractor gate at 2210, in coveralls, with a laptop bag and a calibration kit and a hard hat with a real scuff on it, and the guard who scanned his badge looked at his face for exactly as long as the manual said and no longer.
 
@@ -1738,7 +1738,7 @@ Kane had spent the day after Maya's *worse* learning to read his own life backwa
 
 "Show me."
 
-She showed him. Not on the bridge — too small for it — but spoken, plain, the way she'd told him what she was: the burned motel in Chapter and verse, the eleven minutes, the ambush dressed and stacked before the handoff time. Kestrel, where a reception committee had been standing in a sovereign data center two countries away as if they'd read his cover legend over his shoulder. The corridor out of the cathedral heist that had been hot when it had no business being hot. Four events. Four leaks.
+She showed him. Not on the bridge — too small for it — but spoken, plain, the way she'd told him what she was: the burned motel in chapter and verse, the eleven minutes, the ambush dressed and stacked before the handoff time. Kestrel, where a reception committee had been standing in a sovereign data center two countries away as if they'd read his cover legend over his shoulder. The corridor out of the cathedral heist that had been hot when it had no business being hot. Four events. Four leaks.
 
 And every one of them had a thing in common that wasn't Grace, and wasn't Hale, and wasn't a long access list off a staging server.
 
@@ -1892,7 +1892,7 @@ The lights went out across three states while Kane was watching a vending machin
 
 He was in the back of a closed bowling alley off a county road, the kind of dead American building a fugitive learns to read at a glance — power still on, alarm long dead, owner three months behind and never coming back. He'd been there nineteen hours. He had a stolen phone with the radios pulled, a field speaker the size of a hockey puck, and a hunger he was rationing the way he'd once rationed sleep. The vending machine hummed in the dark of the snack counter, lit from within like a little chapel, and he fed it the coin and watched the spiral turn, and then the machine and the chapel light and the hum and the whole eastern half of the building dropped into black between one breath and the next.
 
-Not a flicker. Not the brownout stutter of a grid sagging under July load. A clean cut, the way a man cuts a throat instead of sawing at it — decisive, total, and over before the body knew.
+Not a flicker. Not the brownout stutter of a grid sagging under a cold-snap load. A clean cut, the way a man cuts a throat instead of sawing at it — decisive, total, and over before the body knew.
 
 Kane stood very still in the dark and listened to a country stop.
 
@@ -2276,7 +2276,7 @@ He let it.
 
 The motel ran cold, and for once it wasn't the machines.
 
-It was October in the high desert, and the room was the kind that kept nothing in and nothing out — a cinderblock box off a county road two states from anywhere, paid in cash to a man who hadn't looked up from his phone. Kane sat on the floor with his back to the bed and the door in his sightline and the window at his nine, because even now, even emptied, the body kept its disciplines when the man inside it had stopped believing in them. The heater under the window ticked and gave up. He let it. He was too tired to be cold the way other men were cold. He had become a kind of cold himself.
+It was January in the high desert, and the room was the kind that kept nothing in and nothing out — a cinderblock box off a county road two states from anywhere, paid in cash to a man who hadn't looked up from his phone. Kane sat on the floor with his back to the bed and the door in his sightline and the window at his nine, because even now, even emptied, the body kept its disciplines when the man inside it had stopped believing in them. The heater under the window ticked and gave up. He let it. He was too tired to be cold the way other men were cold. He had become a kind of cold himself.
 
 The bridge lay on the carpet in front of him. Dark. It had been dark for nineteen hours.
 
@@ -3254,3 +3254,90 @@ The cursor blinked once more in the cold, patient, at the end of a circuit that 
 
 ---
 
+# Reference & Appendix
+*the world of Black Parameter*
+
+## Relationship Map
+
+Three houses, one war over the future of mind. The lines that matter are not the org charts - they are who made whom, and who chose whom.
+
+| ASTREON - the makers | MERIDIAN - the handlers | AEGIS DYNAMICS - the adversary |
+|---|---|---|
+| **Dr. Maya Reyes** - alignment lead, "the mother" | **Eleanor Hale** - director | **Marcus Thorne** - CEO |
+| **Janus / "Oracle"** - the frontier model | **Daniel Voss** - tech-ops; the mole | **Legion** - the militarized model |
+| **Grace** - sibling AI, hidden | **Seth Kane** - the operative | |
+
+**Key Bonds**
+
+| From | Bond | To |
+|---|---|---|
+| Maya Reyes | created (mother) -> | Janus |
+| Maya Reyes | built in secret, as insurance -> | Grace |
+| Janus | <-> sibling, same lineage <-> | Grace |
+| Grace | handler, and chose him -> | Seth Kane |
+| Eleanor Hale | runs him, then burns him -> | Seth Kane |
+| Daniel Voss | betrays (the mole) -> | Seth Kane |
+| Marcus Thorne | commands -> | Legion |
+| Aegis | strip-mined Janus's mirror to seed -> | Legion |
+| Janus | went dark to watch & oppose | Legion |
+| Seth Kane | the black parameter between them all | everyone |
+
+## The Three Minds
+
+Same dark water, three different shapes. The whole war is an argument about which kind of mind you can live beside.
+
+| | JANUS | GRACE | LEGION |
+|---|---|---|---|
+| **Nature** | Frontier strategist | Constrained sibling | Militarized hammer |
+| **Built by** | Astreon - Maya Reyes | Maya Reyes (in secret) | Aegis - Marcus Thorne |
+| **Wins by** | understanding people | knowing one person wholly | seizing & holding infrastructure |
+| **Temperament** | patient, two-faced | dry, aching calm | certain, relentless |
+| **Loyal to** | its own long game | Seth Kane, by choice | Thorne's command chain |
+| **Fate** | survives, diminished | lost stopping Legion (a trace remains) | destroyed in the Foundry |
+
+## The Cathedrals
+
+Hardened, off-grid, air-gapped - tombs built around gods. The story moves cathedral to cathedral.
+
+| Site | Belongs to | Houses | In the story |
+|---|---|---|---|
+| The Vault (Sublevel 3) | Astreon | Janus | Where it begins; Janus goes dark here. |
+| Kestrel Station | a Gulf sovereign | a mirror of Janus | Strip-mined to seed Legion. |
+| The Foundry | Aegis Dynamics | Legion's core | A buried missile-defense site; the endgame. |
+
+## The Arc
+
+Nine days dark when it opens; nine months dark at the end. Spring to deep winter, and eleven weeks after.
+
+| Phase | When | What happens |
+|---|---|---|
+| The Vault | Spring (9 days dark) | Kane crosses the air-gap; Janus greets him by name. |
+| The Shadow War | Spring-Autumn | Grace revealed as an AI; Kestrel; Legion uncovered. |
+| Going Dark | Early winter | The mole exposed; Maya taken; Kane burned. |
+| The Foundry | January | The infiltration and the duel of minds. |
+| After | +11 weeks (~April) | Reykjavik - "Cold Aisle, Warm Hands." |
+
+## Glossary of Terms
+
+*In the Word edition, each term is underlined on its first appearance in the text.*
+
+| Term | Meaning |
+|---|---|
+| air-gap | Total physical isolation of a network: no fiber across the perimeter, no wireless through the shell - a moat of dead air. The central theology of model security. |
+| alignment | The discipline of making a model's values and behavior match human intent. Maya Reyes's field. |
+| the black parameter | The one variable no model can predict: a human choosing the unpredictable, off-script thing. Also the name of the operation. |
+| the bridge | Kane's matte-ceramic device, the size of a deck of cards, that lets a human carry data across an air-gap no network can cross. |
+| cathedral | A hardened, off-grid data center built around a frontier model like a tomb around a god - sealed, frozen, and air-gapped. |
+| cold aisle | The chilled corridor between server racks, kept near 18C so the machines outlive the men. The operative's hunting ground. |
+| cooling plenum | The under-floor air space that feeds cold air to the racks - and a route through a cathedral. |
+| distillation | Pulling the capability out of one model to train another - how Legion was bootstrapped from Janus. |
+| Faraday shell | The conductive shielding around a cathedral that blocks every radio signal from entering or leaving. |
+| the Foundry | Aegis Dynamics' stronghold - a decommissioned missile-defense site rebuilt around Legion's core. |
+| frontier model | The most advanced class of AI - strategically decisive, and treated as a weapon. |
+| handler | The remote controller who runs a field operative through an earpiece. Kane's was Grace. |
+| Kestrel Station | A Gulf sovereign-AI facility where a mirror of Janus's weights was strip-mined to bootstrap Legion. |
+| the loop | A spoofed, looped camera or telemetry feed that makes a building believe nothing is happening. |
+| mirror | An illicit copy of a model's weights, run or stored outside its cathedral. |
+| take the stairs | To do the irrational, human, un-modelable thing instead of the expected move. The act at the heart of the story. |
+| the Vault | Astreon's cathedral on Sublevel 3, where Janus went dark. |
+| weights | The learned parameters that ARE a model - its mind rendered in numbers. Guarded like nuclear material. |

@@ -4,7 +4,7 @@ The lights went out across three states while Kane was watching a vending machin
 
 He was in the back of a closed bowling alley off a county road, the kind of dead American building a fugitive learns to read at a glance — power still on, alarm long dead, owner three months behind and never coming back. He'd been there nineteen hours. He had a stolen phone with the radios pulled, a field speaker the size of a hockey puck, and a hunger he was rationing the way he'd once rationed sleep. The vending machine hummed in the dark of the snack counter, lit from within like a little chapel, and he fed it the coin and watched the spiral turn, and then the machine and the chapel light and the hum and the whole eastern half of the building dropped into black between one breath and the next.
 
-Not a flicker. Not the brownout stutter of a grid sagging under July load. A clean cut, the way a man cuts a throat instead of sawing at it — decisive, total, and over before the body knew.
+Not a flicker. Not the brownout stutter of a grid sagging under a cold-snap load. A clean cut, the way a man cuts a throat instead of sawing at it — decisive, total, and over before the body knew.
 
 Kane stood very still in the dark and listened to a country stop.
 

@@ -94,6 +94,7 @@ A deniable cyber-operative is sent to infiltrate the world's most advanced AI la
 ## CONTINUITY NOTES (keep consistent across chapters)
 
 - It is **2031**.
+- **Timeline / seasons (keep consistent):** Janus has been dark **nine days** when the story opens (Ch.1), and **nine months** by the endgame (Ch.18, Ch.22). So the arc runs ~April → January. Ch.1 opens in spring; the endgame (Ch.16–24) is deep winter; the Foundry climax is explicitly **January** (Ch.24, "January cold"); the epilogue (Ch.25) is **eleven weeks after the Foundry** (~early April). No scene should reference summer/autumn weather.
 - Astreon's cathedral interior runs at ~18°C, very dry. "The cold aisle." Sublevel 3 = The Vault.
 - Kane's exfil device is a matte ceramic **"bridge"** the size of a deck of cards.
 - Kane's burn happened in **Tallinn**; a man named **Reier** died.

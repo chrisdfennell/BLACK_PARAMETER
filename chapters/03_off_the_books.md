@@ -14,7 +14,7 @@ The door opened and Daniel Voss came in first, the way he always did, the way a 
 
 "I went to a nice place. They didn't have a pool."
 
-Voss laughed, short, and dropped into the chair across the table. He had a tablet under his arm and the soft, perpetually rumpled look of a man who lived in server rooms — but his eyes moved over Kane the way they always did, cataloguing, and Kane saw them snag for half a second on the place where his jacket sat heavy on the right side, and then move on. Voss had good eyes. It was why Meridian kept him in the chair behind the glass instead of out in the cold.
+Voss laughed, short, and dropped into the chair across the table. He had a tablet under his arm and the soft, perpetually rumpled look of a man who lived in server rooms — but his eyes moved over Kane the way they always did, cataloging, and Kane saw them snag for half a second on the place where his jacket sat heavy on the right side, and then move on. Voss had good eyes. It was why Meridian kept him in the chair behind the glass instead of out in the cold.
 
 "Director's parking," Voss said. "She'll be in a minute. Kane—" He lowered his voice, though there was no one to lower it from. "Whatever happened in there. Whatever it is. I read your loop logs on the way over. Ninety seconds of nothing. The handler channel just *stopped*. I've never seen Grace drop a floor. Not once."
 

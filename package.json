@@ -1,0 +1,16 @@
+{
+  "name": "black_parameter",
+  "version": "1.0.0",
+  "description": "> A Splinter Cell–style techno-thriller set in the world of frontier AI. > Near-future, 2031. The strategic high ground is no longer territory or oil — it is intelligence itself.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}

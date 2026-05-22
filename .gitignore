@@ -1,0 +1,33 @@
+# --- Node / build tooling (docx generator) ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.npm/
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Temp / scratch ---
+*.tmp
+*.bak
+check_docx.js
+
+# --- Office lock files (open in Word/LibreOffice) ---
+~$*.docx
+.~lock.*#
+
+# --- Generated outputs (UNCOMMENT to stop tracking build artifacts) ---
+# The compiled manuscript and Word doc are rebuilt from chapters/ via build_docx.js.
+# By default they ARE tracked so the latest version travels with the repo.
+# Uncomment the next two lines if you'd rather treat them as disposable build output:
+# BLACK_PARAMETER_full.md
+# BLACK_PARAMETER.docx

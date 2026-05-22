@@ -2,7 +2,7 @@
 
 The motel ran cold, and for once it wasn't the machines.
 
-It was October in the high desert, and the room was the kind that kept nothing in and nothing out — a cinderblock box off a county road two states from anywhere, paid in cash to a man who hadn't looked up from his phone. Kane sat on the floor with his back to the bed and the door in his sightline and the window at his nine, because even now, even emptied, the body kept its disciplines when the man inside it had stopped believing in them. The heater under the window ticked and gave up. He let it. He was too tired to be cold the way other men were cold. He had become a kind of cold himself.
+It was January in the high desert, and the room was the kind that kept nothing in and nothing out — a cinderblock box off a county road two states from anywhere, paid in cash to a man who hadn't looked up from his phone. Kane sat on the floor with his back to the bed and the door in his sightline and the window at his nine, because even now, even emptied, the body kept its disciplines when the man inside it had stopped believing in them. The heater under the window ticked and gave up. He let it. He was too tired to be cold the way other men were cold. He had become a kind of cold himself.
 
 The bridge lay on the carpet in front of him. Dark. It had been dark for nineteen hours.
 

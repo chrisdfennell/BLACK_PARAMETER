@@ -14,7 +14,7 @@ The service corridor was warmer than the Vault and dim as a throat. Cable trays 
 
 "Talk to me about the loop," he said.
 
-"Degrading faster than I built it for. Somebody's poking the timestamps from the inside — not me, not you. The camera loop on Sublevel Three is already gone; that's how they found you. I've got maybe six minutes of clean coverage on the ascent and then the building can see again. Plenum, fire stairs, dock. You know the way out."
+"Degrading faster than I built it for. Somebody's poking the timestamps from the inside — not me, not you. The camera loop on Sublevel 3 is already gone; that's how they found you. I've got maybe six minutes of clean coverage on the ascent and then the building can see again. Plenum, fire stairs, dock. You know the way out."
 
 "The way out was the elevator."
 
@@ -70,7 +70,7 @@ He'd taken these same stairs coming down — three flights, on instinct, against
 
 "Grace."
 
-"Hold." Three seconds. Four. "Two men entered the dock level forty seconds ago from the north vestibule. That's wrong. There's no post on the dock at this hour, there's never a post on the dock, I have eight months of patrol logs and the dock is dead air at oh-three-hundred." Her voice didn't rise. It got more precise, which on her was the same thing. "Kane, the patrol that found you on Sublevel Three came off the perimeter. The dock men came off the perimeter. The break-room tech got pulled from his post and put exactly where you'd surface. None of this is a building reacting to an intruder. A building reacts slow and stupid and in the wrong order. This is *choreography.* Somebody is moving these people like pieces, in real time, ahead of you. Somebody who can see the board."
+"Hold." Three seconds. Four. "Two men entered the dock level forty seconds ago from the north vestibule. That's wrong. There's no post on the dock at this hour, there's never a post on the dock, I have eight months of patrol logs and the dock is dead air at oh-three-hundred." Her voice didn't rise. It got more precise, which on her was the same thing. "Kane, the patrol that found you on Sublevel 3 came off the perimeter. The dock men came off the perimeter. The break-room tech got pulled from his post and put exactly where you'd surface. None of this is a building reacting to an intruder. A building reacts slow and stupid and in the wrong order. This is *choreography.* Somebody is moving these people like pieces, in real time, ahead of you. Somebody who can see the board."
 
 He stood very still on the half-landing with the cold iron under his hand.
 

@@ -46,7 +46,7 @@ He let that settle in the heat of the parked car. "Aegis."
 
 The maintenance window opened on the fourth night, the way Grace had said it would.
 
-It was the cooling that gave him in. It was always the cooling — a cathedral was a machine for being cold, and a machine that cold ran a closed chilled-water loop that someone, eventually, had to commission, balance, and certify, and Kestrel was new enough that its loop was still under warranty work. Daniel Brandt's company was a third-tier sub to the German firm that held the mechanical contract. The badge in Kane's pocket was real. He had not forged it. He had earned it the slow way, three weeks ago, with a phone call from a man in Stuttgart who thought he was approving a temp.
+It was the cooling that got him in. It was always the cooling — a cathedral was a machine for being cold, and a machine that cold ran a closed chilled-water loop that someone, eventually, had to commission, balance, and certify, and Kestrel was new enough that its loop was still under warranty work. Daniel Brandt's company was a third-tier sub to the German firm that held the mechanical contract. The badge in Kane's pocket was real. He had not forged it. He had earned it the slow way, three weeks ago, with a phone call from a man in Stuttgart who thought he was approving a temp.
 
 He went in with the night shift through the contractor gate at 2210, in coveralls, with a laptop bag and a calibration kit and a hard hat with a real scuff on it, and the guard who scanned his badge looked at his face for exactly as long as the manual said and no longer.
 
